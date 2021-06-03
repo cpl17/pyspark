@@ -1,1 +1,1 @@
-Repo includes a collection of quick projects to learn SparkStreaming and MLlib
+Repo includes a collection of quick projects used to learn SparkStreaming and MLlib
